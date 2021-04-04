@@ -26,7 +26,7 @@ insert at specified index and move other part.
 Inserting an element cost Θ(1), but if size equals to the load factor (0.75f), a new array will be created and all
 elements will be copied.
 
-## Linked Lists
+## [Linked Lists](src/LinkedList.kt)
 
 | Operation      | Time Complexity  |
 | -------------  | ---------------- |
@@ -39,9 +39,8 @@ elements will be copied.
 Linked list is good choice if you don't exactly now how much data you want to store. The space will be the same as data
 size. Also, it is a better for removing and adding items in the middle of the data. Queue/Dequeue could be implemented
 via linked list.
-[Linked list](src/LinkedList.kt)
 
-## Binary Heaps
+## [Binary Heaps](src/BinaryHeap.kt)
 
 | Operation      | Time Complexity  |
 | -------------  | ---------------- |
@@ -65,6 +64,5 @@ in Binary Heap
   /    / \           /  \
 30    40  50       100  40 
 </pre>
-[Binary Heap](src/BinaryHeap.kt)
 
 ## Stacks
