@@ -65,4 +65,7 @@ in Binary Heap
 30    40  50       100  40 
 </pre>
 
-## Stacks
+## [Stacks](src/Stack.kt)
+
+- LIFO (Last in, First Out)
+- Abstract data type. Can be implemented a variety of ways. e.g. Arrays, linked lists, etc. See an implementation
