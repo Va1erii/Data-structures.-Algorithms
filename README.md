@@ -68,4 +68,12 @@ in Binary Heap
 ## [Stacks](src/Stack.kt)
 
 - LIFO (Last in, First Out)
-- Abstract data type. Can be implemented a variety of ways. e.g. Arrays, linked lists, etc. See an implementation
+- Abstract data type. Can be implemented a variety of ways. e.g. Arrays, linked lists, etc
+- Generally implements push and pop operations
+
+## [Queues](src/Queue.kt)
+
+- FIFO (First in, First Out)
+- Abstract data type. Can be implemented a variety of ways. e.g. Arrays, linked lists, etc.
+- Generally implements push (enqueue) and pop (dequeue) operations.
+
